@@ -1,0 +1,1 @@
+# Include-Both-Posts-and-Pages-in-Search-Results-on-Wordpress
