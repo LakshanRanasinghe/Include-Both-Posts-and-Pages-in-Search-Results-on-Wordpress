@@ -7,4 +7,4 @@ The code checks if the current query is a search query with $query->is_search. T
 If the condition is true, meaning it is a search query, the function modifies the query using $query->set(‘post_type’, array(‘post’,’page’));. This line instructs WordPress to look for both posts and pages, whereas the default behavior is typically to only search posts.
 After modifying the query, it is returned with return $query;, ensuring that the modified query is used for the search.
 
-[Read more]([https://website-name.com](https://tutebucket.com/optimizing-wordpress-search/))
+[Read more](https://tutebucket.com/optimizing-wordpress-search/)
